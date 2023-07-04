@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://your-website.com"><img src="https://img.shields.io/badge/website-your-website-color.svg" alt="Website"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/email-your-email-color.svg" alt="Email"></a>
+  <a href="mailto:mtndbs@gmail.com"><img src="https://img.shields.io/badge/email-your-email-color.svg" alt="Email"></a>
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/twitter-@your-twitter-color.svg" alt="Twitter"></a>
 </p>
 
