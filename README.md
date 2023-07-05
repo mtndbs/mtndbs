@@ -3,7 +3,7 @@
 <h1 align="center">MtnDBS , Matan dabush , satus: Open to work !</h1>
 
 <p align="center">
-  <a href="mailto:mtndbs@gmail.com"> alt="Email">mtndbs@gmail.com</a>
+  <a href="mailto:mtndbs@gmail.com">mtndbs@gmail.com</a>
 </p>
 
 <p align="center">Web Application Full Stack Developer</p>
