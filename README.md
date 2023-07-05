@@ -1,6 +1,7 @@
 
 
-<h1 align="center">MtnDBS , Matan dabush , satus: Open to work !</h1>
+<h1 align="center">MtnDBS , Matan dabush </h1>
+<h3> Open to work !</h3>
 
 <p align="center">
   <a href="mailto:mtndbs@gmail.com">mtndbs@gmail.com</a>
