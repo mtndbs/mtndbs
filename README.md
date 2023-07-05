@@ -1,20 +1,16 @@
-<p align="center">
-  <img src="https://your-image-url.com" alt="Your Name">
-</p>
 
-<h1 align="center">Hello, I'm Matan dabush!</h1>
+
+<h1 align="center">Hello !</h1>
 
 <p align="center">
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/website-your-website-color.svg" alt="Website"></a>
-  <a href="mailto:mtndbs@gmail.com"><img src="https://img.shields.io/badge/email-your-email-color.svg" alt="Email"></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/twitter-@your-twitter-color.svg" alt="Twitter"></a>
+  <a href="mailto:mtndbs@gmail.com"><img src="https://img.shields.io/badge/email-your-email-color.svg" alt="Email">mtndbs@gmail.com</a>
 </p>
 
 <p align="center">Web Application Full Stack Developer</p>
 
 ---
 
-### 🧐 About Me
+### About Me
 
 I'm a passionate Full Stack Developer with expertise in web application development. My primary tech stack includes TypeScript, Node.js with Express, MongoDB, and MySQL. On the frontend, I'm experienced in React with TypeScript and MUI, as well as Angular with Bootstrap and Material. I have a strong command of English and enjoy continuously learning and exploring new technologies.
 
