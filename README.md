@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Matan Dabush</h1>
-<h3> Open to work !</h3>
+
 
 <p align="center">
   <a href="mailto:mtndbs@gmail.com">mtndbs@gmail.com</a>
