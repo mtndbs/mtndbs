@@ -1,6 +1,6 @@
 
 
-<h1 align="center">MtnDBS , Matan dabush </h1>
+<h1 align="center"> Matan Dabush</h1>
 <h3> Open to work !</h3>
 
 <p align="center">
