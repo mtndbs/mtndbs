@@ -39,8 +39,7 @@ Here are a few technologies I've been working with recently:
 
 I believe in constantly expanding my knowledge base. Currently, I'm focusing on the following areas:
 
-- Advanced TypeScript concepts
-- Angular 15+
+- TailWindCSS
 - Next.js
 
 ### I intend to study:
