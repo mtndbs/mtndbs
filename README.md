@@ -19,11 +19,12 @@ I'm a passionate Full Stack Developer with expertise in web application developm
 
 Here are a few technologies I've been working with recently:
 
-- Programming languages: JavaScript, TypeScript
-- Backend development: Node.js, Express
+- Programming languages: JavaScript, TypeScript , native PHP
+- Backend development: Node.js, Express , Serverless 
 - Databases: MongoDB (most), MySQL
-- Frontend development: React, TypeScript, Material-UI, Angular, Bootstrap
-- CSS preprocessors: SCSS
+- Frontend development: React , Angular ,
+- Libraries: Bootstrap, TailwindCSS , Material-ui
+- CSS preprocessors: CSS,SCSS 
 
 ### 👨‍💻 Projects
 
@@ -43,7 +44,7 @@ I believe in constantly expanding my knowledge base. Currently, I'm focusing on 
 - Next.js
 
 ### I intend to study:
-- Next.js
+
 - React Native
 
 ### 💬 Let's Connect
