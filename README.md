@@ -40,7 +40,7 @@ I believe in constantly expanding my knowledge base. Currently, I'm focusing on 
 
 - Advanced TypeScript concepts
 - Angular 15+
-- React deep isues
+- Next.js
 
 ### I intend to study:
 - Next.js
