@@ -1,16 +1,4 @@
 
-
-<h1 align="center"> Matan Dabush</h1>
-
-
-<p align="center">
-  <a href="mailto:mtndbs@gmail.com">mtndbs@gmail.com</a>  
-</p>
-
-<p align="center">Web Application Full Stack Developer</p>
-
----
-
 <h1 align="center">Matan Dabush</h1>
 
 <p align="center">
