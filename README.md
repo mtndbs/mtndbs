@@ -10,7 +10,11 @@
 
 ---
 
-###  About Me
+###
+  @ _ @
+}==   =={
+  == == 
+     
 
 I'm a **Full-Stack and Mobile Engineer** focused on building **scalable applications and real-world software systems**.
 
