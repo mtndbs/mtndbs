@@ -4,46 +4,96 @@
   <a href="mailto:mtndbs@gmail.com">mtndbs@gmail.com</a>
 </p>
 
-<p align="center"><strong>Full Stack Web & Mobile Developer | Flutter & Vue Enthusiast</strong></p>
+<p align="center">
+<strong>Full-Stack & Mobile Engineer | Flutter • Web • Backend Systems • AI Engineering</strong>
+</p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** specializing in **web and mobile application development**, with a strong foundation in **backend, frontend, and cloud technologies**. I love building **scalable**, **high-performance applications** that solve real-world problems.  
+I'm a **Full-Stack and Mobile Engineer** focused on building **scalable applications and real-world software systems**.
 
-Currently, I’m diving deep into **Flutter and Dart** to craft pixel-perfect mobile experiences and exploring **Vue.js** to enhance my frontend development skills.  
+My work spans **web platforms, mobile applications, backend infrastructure, and cloud services**, with a strong emphasis on **clean architecture, performance, and maintainability**.
 
-I thrive on writing **clean, maintainable code** and constantly pushing the boundaries of what’s possible with modern tech stacks.
+I regularly design and implement systems that connect:
 
-### 💼 Tech Stack & Expertise
+• **Mobile apps**  
+• **Backend APIs**  
+• **Real-time communication**  
+• **Databases and cloud services**
 
-- **Languages**: JavaScript, TypeScript, Dart, PHP  
-- **Frontend**: React, Next.js, Vue.js, Angular, Flutter  
-- **Backend**: Node.js, Express, Serverless, AWS  
-- **Databases**: MongoDB, MySQL  
-- **UI & Styling**: Tailwind CSS, Material-UI, Bootstrap  
-- **Cloud & DevOps**: AWS (Lambda, S3, DynamoDB, API Gateway, Cognito), Firebase  
-- **Other Tools**: WebSockets, GraphQL, REST APIs, Cron Jobs  
-
-### 🔥 Current Focus
-
-Right now, I’m fully immersed in:  
-- **Flutter & Dart** – Building high-performance mobile apps with **clean architecture** and **state management**.  
-- **Vue.js** – Enhancing my frontend stack with Vue 3, Pinia, and advanced UI frameworks.  
-- **Cloud Architectures** – Scaling apps with **AWS and Firebase** for maximum efficiency.  
-
-### 📚 Continuous Learning & Growth
-
-I’m always eager to learn and stay ahead of the curve. My current deep dives include:  
-- **Advanced Flutter animations & performance optimization**  
-- **Serverless architectures and scalable cloud-based solutions**  
-- **Mastering Vue.js for dynamic and interactive web applications**  
-
-### 📩 Let's Connect!
-
-I’m open to **new opportunities, collaborations, and innovative ideas**. Feel free to reach out via **matan.d@amit.team** or connect with me on **[LinkedIn](https://www.linkedin.com/in/matan-moshe-daboush-85888b232)**.  
+Recently, I’ve been expanding into **AI Engineering**, exploring how machine learning and intelligent systems can integrate into modern software products.
 
 ---
 
-<p align="center">Thanks for reading! Let's build something amazing. 🚀</p>
+### 🛠 Tech Stack
+
+**Languages**
+
+JavaScript • TypeScript • Dart • PHP • SQL
+
+**Frontend**
+
+React • Next.js • Vue 3 • Tailwind CSS
+
+**Mobile**
+
+Flutter • Cross-platform mobile architecture
+
+**Backend**
+
+Node.js • Express • REST APIs • WebSockets • Server-side architecture
+
+**Databases**
+
+MongoDB • MySQL  
+(Currently expanding into PostgreSQL and Redis)
+
+**Cloud & Infrastructure**
+
+AWS • Firebase • Serverless architectures
+
+**Other Engineering Areas**
+
+BLE communication  
+Real-time systems  
+API integrations  
+Authentication systems  
+Scalable application architecture
+
+---
+
+### 🚀 Engineering Interests
+
+I’m particularly interested in building systems involving:
+
+• **Mobile ↔ Backend integrations**  
+• **Real-time applications**  
+• **Cloud-native architectures**  
+• **AI-powered products**  
+• **High-performance Flutter applications**
+
+---
+
+### 📚 Current Focus
+
+- **AI Engineering & Machine Learning fundamentals**
+- **Flutter advanced architecture and performance**
+- **Database systems (PostgreSQL, Redis)**
+- **Cybersecurity and system reliability**
+
+---
+
+### 🤝 Let's Connect
+
+I’m always interested in collaborating on **innovative products, startups, and challenging engineering problems**.
+
+📧 matndbs@gmail.com  
+🔗 https://www.linkedin.com/in/matan-moshe-daboush-85888b232
+
+---
+
+<p align="center">
+Building software that connects systems, devices, and people.
+</p>
