@@ -10,10 +10,7 @@
 
 ---
 
-###
-  @ _ @<br>
-}==   =={ <br>
-  == == 
+
      
 
 I'm a **Full-Stack and Mobile Engineer** focused on building **scalable applications and real-world software systems**.
@@ -47,7 +44,7 @@ Flutter • Cross-platform mobile architecture
 
 **Backend**
 
-Node.js • Express • REST APIs • WebSockets • Server-side architecture
+Node.js • Express • REST APIs • WebSockets • Server-side architecture • Microservices  
 
 **Databases**
 
