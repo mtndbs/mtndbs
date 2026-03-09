@@ -10,7 +10,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I'm a **Full-Stack and Mobile Engineer** focused on building **scalable applications and real-world software systems**.
 
@@ -27,11 +27,11 @@ Recently, I’ve been expanding into **AI Engineering**, exploring how machine l
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Languages**
 
-JavaScript • TypeScript • Dart • PHP • SQL
+JavaScript • TypeScript • Dart • PHP • SQL * Python
 
 **Frontend**
 
@@ -64,7 +64,7 @@ Scalable application architecture
 
 ---
 
-### 🚀 Engineering Interests
+###  Engineering Interests
 
 I’m particularly interested in building systems involving:
 
@@ -76,7 +76,7 @@ I’m particularly interested in building systems involving:
 
 ---
 
-### 📚 Current Focus
+###  Current Focus
 
 - **AI Engineering & Machine Learning fundamentals**
 - **Flutter advanced architecture and performance**
